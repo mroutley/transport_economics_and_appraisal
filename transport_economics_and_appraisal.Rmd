@@ -69,12 +69,6 @@ Deliverability and Operations Case
 
 :::
  
-### Examples of business cases
-
-- Metrolinx publishes many of its business cases at http://www.metrolinx.com/en/regionalplanning/projectevaluation/benefitscases/benefits_case_analyses.aspx
-
-The four chapters
-
 ### Business cases used throughout the project lifecycle
 
 ![](images/stage_gate_diagram.png)
@@ -101,6 +95,11 @@ Post-implementation Business Case
 - This business case provides lessons learned and opportunities to enhance the service being provided.
 :::
 
+### Examples of business cases
+
+![](images/mx_bc_webpage.png)
+
+- Metrolinx publishes many of its business cases at http://www.metrolinx.com/en/regionalplanning/projectevaluation/benefitscases/benefits_case_analyses.aspx
 
 ## Concepts
 
@@ -196,7 +195,9 @@ The cost of taking a transit trip as perceived by travellers. Each mode or servi
 
 Each transport service has a social cost to society based on the impacts it creates. Common transport social costs include collisions resulting in property loss, injury, or death; emissions resulting in health impacts; and climate change. Investments may change the overall social costs of the transport system by reducing the overall social cost of travel in the GTHA (example: a new subway attracts demand from a highway, reducing greenhouse gas emissions).
 
-### Rule of half
+### Rule of a half
+
+![](images/rule_of_half.png)
 
 ### Consumer surplus
 
@@ -219,6 +220,10 @@ $$ NPV = PVB – PVC $$
 The NPV is complementary to the BCR. It communicates value for money in an alternative way by showing overall the net benefit from the project in absolute terms. It is important to consider both the BCR and NPV in tandem when examining projects. It is common to focus on the BCR, but both are important. If a project's NPV is greater than 0, it is considered economically beneficial.
 
 ### Wider Economic Impacts
+
+Add agglomeration image
+
+Outline 3 types: competition, aglomeration, job matching
 
 ## Financial analysis
 
